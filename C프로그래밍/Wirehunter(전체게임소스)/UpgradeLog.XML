@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Wirehunter">
+</Property><Property Name="솔루션 파일" Value="J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.sln">
+</Property><Property Name="사용자 옵션 파일" Value="J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.suo">
+</Property><Property Name="Date" Value="2014년 5월 26일 월요일">
+</Property><Property Name="Time" Value="오후 14:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Wirehunter.sln" Description="파일을 J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="Wirehunter.suo" Description="파일을 J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Wirehunter" Source="Wirehunter.vcproj" Description="Converting project file 'J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Wirehunter" Source="Wirehunter.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Wirehunter" Source="Wirehunter.vcproj" Description="Done converting to new project file 'J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Wirehunter" Source="Wirehunter.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Wirehunter.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="Wirehunter.sln" Description="Converted">
+</Event></UpgradeLog>

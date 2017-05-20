@@ -1,0 +1,33 @@
+﻿빌드 시작: 2014-05-26 오후 2:31:50
+     1>2 노드의 "J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Wirehunter.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\FMOD SoundSystem\FMOD Programmers API Win32\api\inc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Wirehunter.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\FMOD SoundSystem\FMOD Programmers API Win32\api\inc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Wirehunter.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Wirehunter.cpp
+         Wirehunter.cpp
+     1>j:\c프로그래밍과제\c_gamesource2008\4장소스\wirehunter(전체게임소스)\wirehunter.cpp(334): warning C4018: '>' : signed 또는 unsigned가 일치하지 않습니다.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Wirehunter.exe.embed.manifest.res" Debug\Wirehunter_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\FMOD SoundSystem\FMOD Programmers API Win32\api\lib" fmodex_vc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Wirehunter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.lib" /MACHINE:X86 Debug\Wirehunter.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Wirehunter.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Wirehunter.exe.embed.manifest" /manifest Debug\Wirehunter.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Wirehunter.exe.embed.manifest.res" Debug\Wirehunter_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\FMOD SoundSystem\FMOD Programmers API Win32\api\lib" fmodex_vc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Wirehunter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.lib" /MACHINE:X86 Debug\Wirehunter.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Wirehunter.obj
+         Wirehunter.vcxproj -> J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Debug\Wirehunter.exe
+       FinalizeBuildStatus:
+         "Debug\Wirehunter.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Wirehunter.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"J:\C프로그래밍과제\C_GameSource2008\4장소스\Wirehunter(전체게임소스)\Wirehunter.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:09.80
